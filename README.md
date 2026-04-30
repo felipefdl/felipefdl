@@ -1,30 +1,24 @@
 # Felipe Lima
 
-**Software Architect & Co-Founder at [TagoIO](https://tago.io)**
+**Software Architect and Co-Founder at [TagoIO](https://tago.io)**
 
-I build things that move data fast and don't fall over at 3am. When they do fall over at 3am, I'm the one who gets paged.
+I build systems that move device data fast. When they fail at 3 a.m., I am the one reading the logs.
 
-Based in Mount Dora, FL. Originally from Brazil. I write systems software, ship native apps, and mass-produce side projects that range from "production-grade" to "it compiles on my machine."
-
----
+Based in Mount Dora, FL. Originally from Brazil. I write systems software, native Apple apps, protocol engines, and side projects that range from "production-ready" to "it compiles on my machine."
 
 ### What I'm Building
 
-**[Reqeast](https://reqeast.app)** -- Native multi-protocol API client for Mac, iPhone & iPad. HTTP, WebSocket, SSE, TCP, and UDP in one app. Built with SwiftUI + Rust. The Postman alternative for people allergic to Electron.
+**[Reqeast](https://reqeast.app)**: Native multi-protocol API client for Mac, iPhone, and iPad. HTTP, WebSocket, SSE, TCP, and UDP in one app. Built with SwiftUI and Rust. Good enough for people who refuse to run Electron.
 
-**[MQTee](https://mqtee.app)** -- Native MQTT client for Apple platforms. Full MQTT 5.0, topic tree browser, iCloud sync, and a Rust protocol engine underneath. Because debugging IoT shouldn't require a terminal and three browser tabs.
+**[MQTee](https://mqtee.app)**: Native MQTT 5.0 client for Apple platforms. Topic tree browser, iCloud sync, Rust engine underneath. Debugging IoT should not require a terminal and three browser tabs.
 
-**[TagoTiP](https://github.com/tago-io/tagotip)** -- Transport IoT Protocol. A lightweight, human-readable, transport-agnostic wire protocol for IoT devices. ~4x smaller than HTTP/JSON, with optional zero-handshake encryption. SDKs in Rust, TypeScript, Go, Python, C, and Arduino.
+**[TagoTiP](https://github.com/tago-io/tagotip)**: Transport IoT Protocol. Lightweight, human-readable, transport-agnostic wire protocol. About 4x smaller than HTTP/JSON, optional zero-handshake encryption. SDKs in Rust, TypeScript, Go, Python, C, and Arduino.
 
-**[Warm Burnout](https://github.com/felipefdl/warm-burnout)** -- The theme suite for developers who already burned out but still have deadlines. Fully warm palette, minimal blue light, WCAG AAA contrast-audited. Your eyes are taking damage and your current theme doesn't care.
-
----
+**[Warm Burnout](https://github.com/felipefdl/warm-burnout)**: Theme suite for developers who already burned out but still have deadlines. Warm palette, low blue light, WCAG AAA contrast-audited. Your eyes are taking damage and your current theme does not care.
 
 ### At TagoIO
 
-Co-founded [TagoIO](https://tago.io) -- an IoT data platform for device management, data analysis, and dashboards at scale. I architect backend systems, design protocols, and make sure millions of device messages per day land where they should.
-
----
+I co-founded [TagoIO](https://tago.io), an IoT platform for device management, data analysis, and dashboards at scale. I work on backend systems, protocols, and the paths that move millions of device messages per day without losing the plot.
 
 ### Day-to-Day
 
@@ -37,13 +31,9 @@ C          ████████░░░░░░░░░░░░░░  e
 
 Systems I work with daily: AWS, PostgreSQL, Redis, MQTT, Docker, Linux, and whatever protocol someone decided to invent this week.
 
----
-
 ### Outside the Editor
 
 Target shooting and home automation. Sometimes both feel like debugging.
-
----
 
 <p>
   <a href="https://x.com/felip3fdl">@felip3fdl</a> &middot;
